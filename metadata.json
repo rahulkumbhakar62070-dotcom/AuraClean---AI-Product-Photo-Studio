@@ -1,0 +1,6 @@
+{
+  "name": "AuraClean - AI Product Photo Studio",
+  "description": "Remove backgrounds, clean up product photos, and replace surfaces just by typing natural language instructions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
